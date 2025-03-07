@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Morteza Khosravi | مرتضی خسروی"
+title: "Morteza Khosravi"
 author_profile: true
 redirect_from: 
   - /about/
