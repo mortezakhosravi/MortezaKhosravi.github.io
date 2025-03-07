@@ -50,6 +50,6 @@ I have built this page as a resource to share my work, projects, and insights. Y
 
 I am always open to discussions on **People Analytics, Organizational Strategy, and HR Innovation**. Feel free to reach out on:  
 
-🔗 **[LinkedIn](https://www.linkedin.com/in/morteza-khosravi/)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/mortezakhosravi/)**  
 
 💡 Let’s shape the future of **HR & People Analytics** together! 🚀  
